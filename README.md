@@ -1,6 +1,6 @@
 # Google Form Bot
 
-Fills out a Google Form many times with Selenium, picking answers so the results match the percentages you choose for each question.
+Fills out a Google Form a configurable number of times with Selenium, picking answers so the results match the percentages you choose for each question.
 
 Only use it on forms you own, for example to generate test data for your results sheet or charts.
 
